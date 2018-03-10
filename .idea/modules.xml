@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CV/.idea/CV.iml" filepath="$USER_HOME$/PycharmProjects/CV/.idea/CV.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CodePractice/.idea/CodePractice.iml" filepath="$USER_HOME$/PycharmProjects/CodePractice/.idea/CodePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CrApp.iml" filepath="$PROJECT_DIR$/.idea/CrApp.iml" />
+    </modules>
+  </component>
+</project>
